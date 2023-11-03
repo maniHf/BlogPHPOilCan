@@ -11,4 +11,8 @@ pm_winnt:notice] [pid 8080:tid 404] AH00354: Child: Starting 64 worker threads.
 [Fri Nov 03 19:04:07.474876 2023] [mpm_winnt:notice] [pid 1852:tid 404] AH00456: Apache Lounge VS17 Server built: Oct 18 2023 13:03:18
 [Fri Nov 03 19:04:07.474876 2023] [core:notice] [pid 1852:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
 [Fri Nov 03 19:04:07.484340 2023] [mpm_winnt:notice] [pid 1852:tid 404] AH00418: Parent: Created child process 6020
-[Fri Nov 03 19:04:07.914642 2023] [mpm_winnt:notice] [pid 6020:tid 400] AH00354: Child: Starting 64 worker threads.
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 6020:tid 400] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 03 20:32:15.235461 2023] [mpm_winnt:notice] [pid 1852:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 03 20:32:17.261485 2023] [mpm_winnt:notice] [pid 6020:tid 400] AH00364: Child: All worker threads have exited.
+[Fri Nov 03 20:32:17.308567 2023] [mpm_winnt:notice] [pid 1852:tid 404] AH00430: Parent: Child process 6020 exited successfully.
