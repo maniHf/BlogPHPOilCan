@@ -24,3 +24,13 @@ jq использую спокойно
 
 Источники фото и другой ерунды <br>
 <a href="https://ru.freepik.com/free-photo/dirty-wall-with-graffiti_1017350.htm#query=%D1%81%D1%82%D0%B5%D0%BD%D0%B0%20%D0%B3%D1%80%D0%B0%D1%84%D1%84%D0%B8%D1%82%D0%B8&position=9&from_view=keyword&track=ais">Изображение от freestockcenter</a> на Freepik
+
+
+
+
+
+начало положено
+делаю проверку на админа или обычного пользователя 
+обычный пароль пусть будет admin admin 
+
+![image](https://github.com/maniHf/BlogPHPOilCan/assets/112350245/1469330e-440e-459e-83b6-c1e2cd1bb9fa)
